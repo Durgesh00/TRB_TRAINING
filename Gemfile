@@ -15,7 +15,7 @@ gem 'puma', '~> 4.1'
 gem 'jwt'
 gem "cells-rails"
 gem "cells-haml"
-gem 'simple_form', '4.0.0'
+gem 'simple_form', '5.0.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'trailblazer-cells'
 # Use SCSS for stylesheets
