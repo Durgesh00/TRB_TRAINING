@@ -11,7 +11,7 @@ gem 'sqlite3', '~> 1.4'
 gem 'reform', '~> 2.3.0'
 gem 'reform-rails', '~> 0.2.0'
 gem 'trailblazer-macro'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'jwt'
 gem "cells-rails"
 gem "cells-haml"
